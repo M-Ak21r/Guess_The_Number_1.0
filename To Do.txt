@@ -1,0 +1,5 @@
+1. choose a random number
+2. define a function to guess the number
+3. if number guessed is higher or lower than the generated number, print too high or too low respectively
+4. make the user choose a difficulty level easy or hard with 10 attempts in easy and 5 attempts in hard
+5. def a function to give the user an output, whether he/she lost or won
